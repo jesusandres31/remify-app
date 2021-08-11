@@ -11,7 +11,7 @@ SaaS multy-tenan for business management
 - Typescript
 - PostgreSQL
 - React
-- Redux
+- Redux-Toolkit
 - Material-UI
 - Docker
 - Nginx
