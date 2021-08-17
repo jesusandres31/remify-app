@@ -1,11 +1,11 @@
-## Remify App 💻
+## Remify App 👨‍💼💼
 
 SaaS webapp for business management.
 Available in three languages (english, spanish and portuguese)
 
 - I'll be updating this repo soon
 
-## Stack used
+## Stack used 💻
 
 - Node
 - Express
@@ -18,7 +18,7 @@ Available in three languages (english, spanish and portuguese)
 - Docker-Compose
 - Nginx
 
-## Images
+## Images 📷
 
 ![](./browser1.png)
 
