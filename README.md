@@ -1,6 +1,6 @@
 ## Remify App 💻
 
-SaaS multy-tenan for business management.
+SaaS webapp for business management.
 Available in three languages (english, spanish and portuguese)
 
 - I'll be updating this repo soon
