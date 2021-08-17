@@ -1,10 +1,12 @@
 ## Remify App 💻
 
 SaaS multy-tenan for business management
+Available in three languages (english, spanish and portuguese)
+
 ```
 - I'll be updating this repo soon
 ```
-## Stack used in this app
+## Stack used
 
 - Node
 - Express
@@ -17,7 +19,7 @@ SaaS multy-tenan for business management
 - Docker-Compose
 - Nginx
 
-## Some images
+## Images
 
 ![](./browser1.png)
 
@@ -43,6 +45,6 @@ SaaS multy-tenan for business management
 
 ![](./pwa.png)
 
-![](./mobile1.png)
+![](./pwa2.png)
 
 ![](./arq-multitenant.png)
