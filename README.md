@@ -22,30 +22,30 @@ Available in three languages (english, spanish and portuguese)
 
 ## Images 📷
 
-![](./browser1.png)
+![](./images/browser1.png)
 
-![](./conf.png)
+![](./images/conf.png)
 
-![](./eng.png)
+![](./images/eng.png)
 
-![](./port.png)
+![](./images/port.png)
 
-![](./browser2.png)
+![](./images/browser2.png)
 
-![](./ingreso7.png)
+![](./images/ingreso7.png)
 
-![](./tenantotro2.png)
+![](./images/tenantotro2.png)
 
-![](./ingreso2.png)
+![](./images/ingreso2.png)
 
-![](./ingreso3.png)
+![](./images/ingreso3.png)
 
-![](./ingreso4.png)
+![](./images/ingreso4.png)
 
-![](./pwa1.png)
+![](./images/pwa1.png)
 
-![](./pwa.png)
+![](./images/pwa.png)
 
-![](./pwa2.png)
+![](./images/pwa2.png)
 
-![](./arq-multitenant.png)
+![](./images/arq-multitenant.png)
