@@ -42,6 +42,8 @@ Available in three languages (english, spanish and portuguese)
 
 ![](./images/ingreso4.png)
 
+![](./images/checking.png)
+
 ![](./images/pwa1.png)
 
 ![](./images/pwa.png)
