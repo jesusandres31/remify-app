@@ -5,8 +5,6 @@ Available in three languages (english, spanish and portuguese)
 
 - [app.remify.me](https://app.remify.me/)
 
-- I'll be updating this repo soon
-
 ## Stack used 💻
 
 - Node
