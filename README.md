@@ -16,6 +16,7 @@ Available in three languages (english, spanish and portuguese)
 - Docker
 - Docker-Compose
 - Nginx
+- DigitalOcean VPC
 
 ## Images 📷
 
