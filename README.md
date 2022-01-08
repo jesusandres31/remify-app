@@ -1,6 +1,6 @@
 ## Remify App 👨‍💼💼
 
-SaaS webapp for business management.
+Webapp for business management.
 Available in three languages (english, spanish and portuguese)
   
 
