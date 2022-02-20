@@ -1,24 +1,38 @@
 ## Remify App 👨‍💼💼
 
-Webapp for business management.
-Available in three languages (english, spanish and portuguese)
-  
+SaaS Multi-Tenant Web App (PWA) for business management. Available in three languages (English, Spanish and Portuguese)
+
+- [app.remify.me](https://app.remify.me/)
 
 ## Stack used 💻
+
+### Operations
+
+- Docker
+- Docker-Compose
+- Nginx Server/Reverse Proxy
+- Let's Encrypt Certbot
+- Ubuntu Linux VPC
+- Bash Scripting
+- CloudFlare
+
+### Development
 
 - Node
 - Express
 - Typescript
-- PostgreSQL
 - React
 - Redux-Toolkit
 - Material-UI
-- Docker
-- Docker-Compose
-- Nginx
-- DigitalOcean VPC
+
+### Database
+
+- PostgreSQL
+- PL/PgSQL
 
 ## Images 📷
+
+![](./images/containers.png)
 
 ![](./images/browser1.png)
 
@@ -47,5 +61,3 @@ Available in three languages (english, spanish and portuguese)
 ![](./images/pwa.png)
 
 ![](./images/pwa2.png)
-
-![](./images/arq-multitenant.png)
