@@ -16,6 +16,7 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 - Bash Scripting
 - CloudFlare
 - DigitalOcean
+- SonarQube code analysis 
 
 ### Development
 
@@ -30,6 +31,12 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 
 - PostgreSQL
 - PL/PgSQL
+
+## Some features ⚙️
+
+- Invoice printing with jsPDF
+- Caching with Redis
+- Authentication with Passport JWT
 
 ## Images 📷
 
