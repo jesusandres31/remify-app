@@ -15,6 +15,7 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 - Ubuntu Linux VPC
 - Bash Scripting
 - CloudFlare
+- DigitalOcean
 
 ### Development
 
