@@ -1,8 +1,6 @@
-## Remify App 👨‍💼💼
+## Remit App 👨‍💼💼
 
 SaaS Multi-Tenant Web App (PWA) for business management. Available in three languages (English, Spanish and Portuguese)
-
-- [app.remify.me](https://app.remify.me/)
 
 ## Stack used 💻
 
