@@ -35,6 +35,7 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 - Invoice printing with jsPDF
 - Caching with Redis
 - Authentication with Passport JWT
+- Tests with Mocha.js and Supertest
 
 ## Images 📷
 
