@@ -10,7 +10,7 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 
 - Docker
 - Docker-Compose
-- Nginx Server/Reverse Proxy
+- Nginx Web Server/Reverse Proxy
 - Let's Encrypt Certbot
 - Ubuntu Linux VPC
 - Bash Scripting
