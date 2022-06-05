@@ -2,19 +2,19 @@
 
 SaaS Multi-Tenant Web App (PWA) for business management. Available in three languages (English, Spanish and Portuguese)
 
-- [app.remify.me](https://app.remify.me/)
-
 ## Stack used 💻
 
 ### Operations
 
-- Docker
+- Docker 🐳
 - Docker-Compose
 - Nginx Web Server/Reverse Proxy
 - Let's Encrypt Certbot
 - Ubuntu Linux VPC
 - Bash Scripting
 - CloudFlare
+- DigitalOcean
+- SonarQube code analysis 
 
 ### Development
 
@@ -29,6 +29,13 @@ SaaS Multi-Tenant Web App (PWA) for business management. Available in three lang
 
 - PostgreSQL
 - PL/PgSQL
+
+## Some features ⚙️
+
+- Invoice printing with jsPDF
+- Caching with Redis
+- Authentication with Passport JWT
+- Tests with Mocha.js and Supertest
 
 ## Images 📷
 
